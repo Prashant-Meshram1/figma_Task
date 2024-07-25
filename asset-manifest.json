@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/figma_Task/static/css/main.442cee30.css",
+    "main.js": "/figma_Task/static/js/main.f383b4f8.js",
+    "static/js/453.ed3810f9.chunk.js": "/figma_Task/static/js/453.ed3810f9.chunk.js",
+    "static/media/nonvege.jpeg": "/figma_Task/static/media/nonvege.a29ae333459be7ec1e5e.jpeg",
+    "static/media/leaf.png": "/figma_Task/static/media/leaf.ea30f747724af47e5ce1.png",
+    "static/media/cheff.png": "/figma_Task/static/media/cheff.23422b8b33a5f4411da1.png",
+    "static/media/frontImage.jpeg": "/figma_Task/static/media/frontImage.da31874a421a1f5c550b.jpeg",
+    "static/media/fruit.png": "/figma_Task/static/media/fruit.e3e9377a99415facdccd.png",
+    "static/media/Name.png": "/figma_Task/static/media/Name.2abc475cac55edb0f7f8.png",
+    "static/media/items.jpeg": "/figma_Task/static/media/items.a052f9bab0e030e7b78f.jpeg",
+    "static/media/live.jpeg": "/figma_Task/static/media/live.08ab92cfaf9f8120ba1b.jpeg",
+    "static/media/racipes.jpeg": "/figma_Task/static/media/racipes.e1671c229774133b4ff6.jpeg",
+    "static/media/mango.jpeg": "/figma_Task/static/media/mango.318de66486b1802d87dc.jpeg",
+    "static/media/coconut_oil.jpeg": "/figma_Task/static/media/coconut_oil.a365c016986bcaf3ee29.jpeg",
+    "index.html": "/figma_Task/index.html",
+    "main.442cee30.css.map": "/figma_Task/static/css/main.442cee30.css.map",
+    "main.f383b4f8.js.map": "/figma_Task/static/js/main.f383b4f8.js.map",
+    "453.ed3810f9.chunk.js.map": "/figma_Task/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442cee30.css",
+    "static/js/main.f383b4f8.js"
+  ]
+}
